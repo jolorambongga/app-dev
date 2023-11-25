@@ -2,7 +2,7 @@
 My first repository
 
 # MY FAVORITE SERIES
-1. [18-Again](https://www.viu.com/ott/ph/en/vod/298745/18-Again)  ==will make you cry==.
+1. [18-Again](https://www.viu.com/ott/ph/en/vod/298745/18-Again)  **will make you cry**
 2. [The Uncanny Counter](https://en.wikipedia.org/wiki/The_Uncanny_Counter)
 3. [Alice in Borderland](https://en.wikipedia.org/wiki/Alice_in_Borderland)
 4. [All of us are Dead](https://en.wikipedia.org/wiki/All_of_Us_Are_Dead)
